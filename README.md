@@ -1,2 +1,2 @@
 # slideshow
-Slide pronto para ser usado em projetos.
+Slide pronto para ser usado em projetos
